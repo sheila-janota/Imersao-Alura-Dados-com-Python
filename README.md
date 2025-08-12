@@ -31,25 +31,6 @@ Ele permite explorar visualmente faixas salariais por cargo, região, nível de 
 | Cientista de Dados    | 7.000       | 18.000      | 12.000      |
 
 
-## 🛠 Tecnologias Utilizadas
-- Python 3.10
-- Pandas
-- Streamlit
-- Plotly
-- Matplotlib / Seaborn
-
- 📌 Principais Insights
-📈 Tendência de alta nos salários de Engenharia de Dados e Ciência de Dados.
-
-🌍 Diferenças salariais significativas por localização.
-
-🎯 Skills mais valorizadas: Machine Learning, Cloud Computing e SQL.
-
-📊 Gap salarial relevante entre níveis de senioridade (Júnior, Pleno, Sênior).
-
-📉 Algumas áreas apresentam defasagem salarial em relação à média do mercado.
-
-
 🧠 Conclusões Estratégicas
 Ajustar políticas salariais para alinhar com a média do mercado, especialmente em cargos técnicos avançados.
 
@@ -60,3 +41,14 @@ Investir em retenção para cargos de alto valor e demanda crescente.
 Explorar contratações remotas para regiões com custo-benefício favorável.
 
 Monitorar periodicamente as tendências salariais para evitar defasagens e manter competitividade.
+
+
+## 🛠 Tecnologias Utilizadas
+- Python 3.10
+- Pandas
+- Streamlit
+- Plotly
+- Matplotlib / Seaborn
+
+
+
