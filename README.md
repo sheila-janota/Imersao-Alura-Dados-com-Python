@@ -5,7 +5,8 @@ Este repositório apresenta a solução de um Dashboard de Análise de Salários
 
 Este projeto analisa tendências salariais no setor de dados utilizando Python, Pandas e Streamlit, com o objetivo de gerar insights para decisões estratégicas sobre contratação, retenção e políticas salariais.
 
-O Dashboard pode ser acessado via link Streamlit: https://imersao-alura-dados-com-python-jdpc3zcczyokkrdydkycbs.streamlit.app/
+O Dashboard pode ser acessado via link Streamlit:
+https://imersao-alura-dados-com-python-jdpc3zcczyokkrdydkycbs.streamlit.app/
 
 ## 📝 Sobre o Projeto
 Este dashboard interativo foi desenvolvido durante a Imersão Alura, com foco na análise de salários da área de dados.
