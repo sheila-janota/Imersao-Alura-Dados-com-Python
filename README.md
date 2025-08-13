@@ -32,7 +32,7 @@ Ele permite explorar visualmente faixas salariais por cargo, região, nível de 
 | Cientista de Dados    | 7.000       | 18.000      | 12.000      |
 
 
-🧠 Conclusões Estratégicas
+## 🧠 Conclusões Estratégicas
 Ajustar políticas salariais para alinhar com a média do mercado, especialmente em cargos técnicos avançados.
 
 Priorizar capacitação interna em tecnologias emergentes como IA, ML e Cloud.
